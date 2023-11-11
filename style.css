@@ -33,6 +33,14 @@ body {
 }
 
 .container{
+    text-align: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0;
+    padding: 10px;
+}
+
+.container1{
     width: 100%;
     max-width: 1200px;
     margin: 0;
@@ -46,6 +54,8 @@ img{
 
 .leadphoto{
     max-width: 75%;
+    padding: 0px;
+    margin: 0px;
 }
 
 .flex{
@@ -59,15 +69,10 @@ img{
     padding: 10px;
 }
 
-.iconhead{
-    color: darkgray;
-    text-align: center;
-}
-
 .graph1{
     width: 100%;
     max-width: 1200px;
-    max-height: 1000px;
+    max-height: 1200px;
     margin: 0px;
     padding: 0px;
 }
@@ -75,7 +80,7 @@ img{
 .graph2{
     width: 100%;
     max-width: 1200px;
-    max-height: 1000px;
+    max-height: 1200px;
     margin: 0px;
     padding: 0px;
 }
